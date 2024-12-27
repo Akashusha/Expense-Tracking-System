@@ -73,25 +73,5 @@ To run the test cases for both the frontend and backend, use:
 pytest tests/
 ```
 
----
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-For any queries or feedback, please contact [yourname@example.com](mailto:yourname@example.com).
 
